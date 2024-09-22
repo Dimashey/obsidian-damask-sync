@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base/trading/Liquidation Heatmap.md",
+                "file": "base/trading/Liquidation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/trading/Liquidation Heatmap.md",
+                "file": "base/trading/Liquidation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base/trading/Liquidation Heatmap.md",
+                "file": "base/trading/Liquidation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base/trading/Liquidation Heatmap.md"
+                "file": "base/trading/Liquidation.md"
               }
             }
           }
@@ -142,21 +142,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "0e3c87b1e8ab6e76",
   "lastOpenFiles": [
     "base/trading/Cost of capital.md",
+    "images/Pasted image 20240901144533.png",
+    "images/Pasted image 20240826155549.png",
+    "images/Pasted image 20240826143347.png",
+    "base/trading/Liquidation Heatmap.md",
     "base/trading/Market liquidity.md",
     "base/trading/Liquidation.md",
     "base/trading/Perpetual Futures.md",
-    "base/trading/Liquidation Heatmap.md",
     "base/trading/Funding rate.md",
-    "images/Pasted image 20240901144533.png",
     "Untitled.canvas",
-    "images/Pasted image 20240826155549.png",
-    "images/Pasted image 20240826143347.png",
     "base/trading",
     "base",
     "create a link.md",
