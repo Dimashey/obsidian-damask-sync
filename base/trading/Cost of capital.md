@@ -1,0 +1,1 @@
+In crypto trading, the **cost of capital** refers to the cost incurred to obtain and use funds for trading activities. It encompasses the expenses associated with securing the capital needed to engage in trading crypto currency, which can come from various sources. The cost of capital is crucial in determining the profitability of trading strategies.
