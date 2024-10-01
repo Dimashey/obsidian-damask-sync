@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42e2d9a58a46bdbd",
+        "id": "0265dd70b50ded42",
         "type": "tabs",
         "children": [
           {
-            "id": "0e3c87b1e8ab6e76",
+            "id": "df6afd56e4442497",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base/trading/Liquidation.md",
+                "file": "base/software development/Distributed transactions pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/trading/Liquidation.md",
+                "file": "base/software development/Distributed transactions pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base/trading/Liquidation.md",
+                "file": "base/software development/Distributed transactions pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base/trading/Liquidation.md"
+                "file": "base/software development/Distributed transactions pattern.md"
               }
             }
           }
@@ -146,17 +146,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e3c87b1e8ab6e76",
+  "active": "df6afd56e4442497",
   "lastOpenFiles": [
+    "base/software development/Garbage collector.md",
+    "base/software development/Distributed transactions pattern.md",
+    "base/software development/Operational and Programmers Error.md",
+    "base/web development/Weak point of nodejs.md",
+    "base/web development/Node js main components.md",
+    "base/web development/Node js.md",
+    "base/web development/Multi-threading in node js.md",
+    "base/web development/Libuv.md",
+    "base/web development/Event Loop.md",
+    "base/software development",
+    "base/web development/How read big files in nodejs.md",
+    "base/web development/How nodejs handle many concurrent request.md",
+    "base/web development/Homework.md",
+    "base/investment/crypto/Пассивный доход в криптоволюте.md",
+    "base/trading/Perpetual Futures.md",
+    "base/trading/Funding rate.md",
     "base/trading/Cost of capital.md",
+    "Untitled 1.canvas",
+    "base/web development",
+    "base/investment/crypto",
+    "base/investment",
+    "base/trading/Market liquidity.md",
+    "base/trading/Liquidation.md",
+    "base/trading/Liquidation Heatmap.md",
     "images/Pasted image 20240901144533.png",
     "images/Pasted image 20240826155549.png",
     "images/Pasted image 20240826143347.png",
-    "base/trading/Liquidation Heatmap.md",
-    "base/trading/Market liquidity.md",
-    "base/trading/Liquidation.md",
-    "base/trading/Perpetual Futures.md",
-    "base/trading/Funding rate.md",
     "Untitled.canvas",
     "base/trading",
     "base",
